@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86025320917292f41a129196025d31c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerCOP: {fileID: 2112885476867472714, guid: 5cce65c3dc115bc4e96a8c0a5cb9c02d, type: 3}
+  - Player: {fileID: 1968562250896399484, guid: e4562ec8c09ecc240aeadb882dba073c, type: 3}
+  - baboom: {instanceID: 0}
+  - PlayerTwo: {fileID: 6131518687275308968, guid: 5596c1ea579edd24b8c5e5c5852eae0f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
